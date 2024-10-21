@@ -24,7 +24,6 @@ The primary components are:
 
 ## Project Images
 ![Arduino Setup](arduino-sensor.png)
-![Arduino Video](arduino-sensor.mov)
 
 ## License
 Feel free to use and modify this project for personal use.
